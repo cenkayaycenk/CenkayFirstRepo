@@ -37,20 +37,7 @@
       <recent name="C:\Users\cenka\IdeaProjects\CenkayFirstRepo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.c2_cont1">
-    <configuration name="c1_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Git_2ndDay.c1_Practice" />
-      <module name="CenkayFirstRepo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2_Git_2ndDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.c3_cont3">
     <configuration name="c1_cont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3_GitPractice.c1_cont" />
       <module name="CenkayFirstRepo" />
@@ -90,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="c3_cont3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3_GitPractice.c3_cont3" />
+      <module name="CenkayFirstRepo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3_GitPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c3_practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2_Git_2ndDay.c3_practice3" />
       <module name="CenkayFirstRepo" />
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c3_cont3" />
         <item itemvalue="Application.c2_cont1" />
         <item itemvalue="Application.c1_cont" />
         <item itemvalue="Application.c3_practice3" />
         <item itemvalue="Application.c2_Practice" />
-        <item itemvalue="Application.c1_Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657070773662</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1657071316414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657071316414</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
